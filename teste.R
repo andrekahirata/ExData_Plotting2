@@ -1,0 +1,1 @@
+SCC[SCC$EI.Sector=="Fuel Comb - Industrial Boilers, ICEs - Natural Gas" |     SCC$EI.Sector=="Fuel Comb - Industrial Boilers, ICEs - Coal" |     SCC$EI.Sector=="Fuel Comb - Comm/Institutional - Coal" ,1]
